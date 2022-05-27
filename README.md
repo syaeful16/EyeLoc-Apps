@@ -10,3 +10,6 @@ Aplikasi EyeLoc merupakan aplikasi yang digunakan untuk mempermudah para penyand
 
 ### Intro voice
 <img width="375" alt="onboarding (1)" src="https://user-images.githubusercontent.com/92679271/170699378-e7e38386-28da-4a0b-a846-75f7a13ece86.png">
+
+### Menghubungkan Tongkat
+![Group 36](https://user-images.githubusercontent.com/92679271/170699741-3f115c3c-1ae5-4a94-9d02-f72f055fabe5.png)

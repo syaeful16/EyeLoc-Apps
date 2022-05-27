@@ -13,3 +13,6 @@ Aplikasi EyeLoc merupakan aplikasi yang digunakan untuk mempermudah para penyand
 
 ### Menghubungkan Tongkat
 ![Group 36](https://user-images.githubusercontent.com/92679271/170699741-3f115c3c-1ae5-4a94-9d02-f72f055fabe5.png)
+
+### GPS
+![Group 37](https://user-images.githubusercontent.com/92679271/170700097-ca82888e-0659-435e-a541-5c15c7dcfd6f.png)

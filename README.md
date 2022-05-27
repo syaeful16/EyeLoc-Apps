@@ -7,3 +7,6 @@ Aplikasi EyeLoc merupakan aplikasi yang digunakan untuk mempermudah para penyand
 
 ### Splash Sreen
 <img width="375" alt="Splash Screen" src="https://user-images.githubusercontent.com/92679271/170699172-4e35a87e-a798-4e9f-9919-f1a6cc79793c.png">
+
+### Intro voice
+<img width="375" alt="onboarding (1)" src="https://user-images.githubusercontent.com/92679271/170699378-e7e38386-28da-4a0b-a846-75f7a13ece86.png">
